@@ -16,7 +16,7 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 - 🔭 I’m currently working on boostcamp AI Tech 
 - 🌱 I’m currently learning Deep Learning 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="25%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
@@ -26,7 +26,7 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 </div>
-</td><td valign="top" width="50%">
+</td><td valign="top" width="75%">
   
 <div align="center">  
 
