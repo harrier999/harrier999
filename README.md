@@ -16,11 +16,6 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 - 🔭 I’m currently working on boostcamp AI Tech 
 - 🌱 I’m currently learning Deep Learning 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/harrier999)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrier999)](https://github.com/anuraghazra/github-readme-stats)
-
 <table><tr><td valign="top" width="50%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
