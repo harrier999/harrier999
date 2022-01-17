@@ -1,2 +1,9 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrier999&show_icons=true&theme=radical)
+
+Dept. of Computer Science, Konkuk University, Seoul
+
+### Experiences
+
+Development of Smart Mirror - LG electorics, Konkuk University
+42Seoul Cadet - Innovation Academy
+
