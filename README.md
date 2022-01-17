@@ -35,8 +35,9 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 </div>
 </td></tr></table>  
 -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrier999)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
