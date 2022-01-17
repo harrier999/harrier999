@@ -26,7 +26,7 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 </div>
-</td><td valign="top" width="75%">
+</td><td valign="top" width="40%">
   
 <div align="center">  
 
