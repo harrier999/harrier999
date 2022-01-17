@@ -15,7 +15,13 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 
 - 🔭 I’m currently working on boostcamp AI Tech 
 - 🌱 I’m currently learning Deep Learning 
-table td { border:0; }
+.comment-content table {
+    border-bottom: 0;
+
+.comment-content td {
+    border-top: 0;
+    padding: 6px 10px 6px 0;
+}
 
 <table><tr><td valign="top" width="25%">
 <div align="center">  
