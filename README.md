@@ -29,8 +29,9 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 </td><td valign="top" width="50%">
   
 <div align="center">  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrier999)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 </td></tr></table>  
 
-</td></tr></table>  
