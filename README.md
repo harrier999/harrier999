@@ -2,7 +2,7 @@
 
 Dept. of Computer Science, Konkuk University, Seoul
 
-### Experiences
+### :sparkles:Experiences
 
 Development of Smart Mirror - LG electorics, Konkuk University
 
