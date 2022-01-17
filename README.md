@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text="HELLOME"!&fontAlign=80&fontAlignY=40&color=random)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text="HELLOME"!&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
 
