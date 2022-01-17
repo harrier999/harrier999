@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text="HELLOME"!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text="HELLOME"!&fontAlign=80&fontAlignY=40&color=gradient&section=header)
 ### Hi there 👋
 
 Dept. of Computer Science, Konkuk University, Seoul
@@ -15,6 +15,10 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 
 - 🔭 I’m currently working on boostcamp AI Tech 
 - 🌱 I’m currently learning Deep Learning 
+
+td {
+ border-style : hidden!important;
+}
 
 <table><tr><td valign="top" width="25%">
 <div align="center">  
