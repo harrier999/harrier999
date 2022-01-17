@@ -11,7 +11,7 @@ Development of Smart Mirror Using voice and Emotion Recognition - Industrial pro
 
 
 
-Skills: C / C++ / Python / Embeded System / OpenCV/ Git
+## Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 
 - 🔭 I’m currently working on boostcamp AI Tech 
 - 🌱 I’m currently learning Deep Learning 
