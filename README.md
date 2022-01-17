@@ -33,4 +33,4 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 </div>
 </td><td valign="top" width="50%">
 
-  </td></tr></table>  
+</td></tr></table>  
