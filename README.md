@@ -1,5 +1,4 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text="HELLOME"!&fontAlign=80&fontAlignY=40&color=gradient)
-
 ### Hi there 👋
 
 Dept. of Computer Science, Konkuk University, Seoul
