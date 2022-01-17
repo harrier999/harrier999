@@ -1,9 +1,9 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text="HELLO+ME"&fontAlign=75&fontAlignY=30&color=gradient&section=header)
-### Hi there 👋
+## Hi there 👋
 
 Dept. of Computer Science, Konkuk University, Seoul
 
-### :sparkles:Experiences
+## :sparkles:Experiences
 
 Development of Smart Mirror Using voice and Emotion Recognition - Industrial project, Collaboration with LG electronics
 
