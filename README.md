@@ -22,7 +22,9 @@ Skills: C / C++ / Python / Embeded System / OpenCV/ Git
     border-top: 0;
     padding: 6px 10px 6px 0;
 }
-
+table, tr, td{
+ border:none;
+}
 <table><tr><td valign="top" width="25%">
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
