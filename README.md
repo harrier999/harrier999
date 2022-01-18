@@ -7,6 +7,8 @@ Dept. of Computer Science, Konkuk University, Seoul
 
 Development of Smart Mirror Using voice and Emotion Recognition - Industrial project, Collaboration with LG electronics
 
+Development of drivers, library, application for soap dispensor using Arduino - Embeded System software
+
 42Seoul Cadet - Innovation Academy
 
 
