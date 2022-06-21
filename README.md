@@ -15,8 +15,8 @@ Development of drivers, library, application for soap dispenser using Arduino - 
 
 ## 🛠️Skills: C / C++ / Python / Embeded System / OpenCV/ Git
 
-- 🔭 I’m currently working on boostcamp AI Tech 
-- 🌱 I’m currently learning Deep Learning 
+- 🔭 I’m currently working on Infra
+- 🌱 I’m currently learning Kubernetes
 <!--
 <table><tr><td valign="top" width="25%">
 <div align="center">  
